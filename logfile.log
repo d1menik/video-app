@@ -1,0 +1,5 @@
+{"message":"Could not get the genres.","level":"error"}
+{"message":"Could not get the genres.","level":"error"}
+{"message":"failed to reconnect after 30 attempts with interval 1000 ms","level":"error"}
+{"level":"error","message":"Something failed miserably!"}
+{"message":"Connected to MongoDB...","level":"info"}
