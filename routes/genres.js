@@ -2,7 +2,6 @@ const {Genre, validateGenre} = require('../models/genre');
 const validate = require('./../middleware/validate');
 const {isAdmin} = require('./../middleware/admin');
 const auth = require('./../middleware/auth');
-const mongoose = require('mongoose');
 const validateObjectId = require('./../middleware/validateObjectId');
 const express = require('express');
 const router = express.Router();
